@@ -1,0 +1,29 @@
+{
+  "name": "vue-x11",
+  "version": "0.0.1",
+  "main": "vue-x11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "falcon.lee",
+  "license": "GPL-3.0",
+  "description": "Customizable windowing system designed for VueJS.",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-plugin-vue": "^7.6.0"
+  },
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FalconLee1011/vue-x11.git"
+  },
+  "keywords": [
+    "vue", "vuejs", "menu", "frontend", "component", "window", "windows", "x11", "windowing system", "moveable", "moveable components", "floating windows"
+  ],
+  "bugs": {
+    "url": "https://github.com/FalconLee1011/vue-x11/issues"
+  },
+  "homepage": "https://github.com/FalconLee1011/vue-x11#readme"
+}
