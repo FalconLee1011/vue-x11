@@ -22,7 +22,7 @@ Want to create a web-based application with fancy windowing system? Vue-x11 is y
 ## How to
 Install the plugin
 ```bash
-npm install vue-xwindows
+npm install vue-x11
 ```
 
 Vue.Use() in /src/main.js

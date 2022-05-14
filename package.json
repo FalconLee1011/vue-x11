@@ -1,6 +1,6 @@
 {
   "name": "vue-x11",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "vue-x11.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,7 +20,18 @@
     "url": "git+https://github.com/FalconLee1011/vue-x11.git"
   },
   "keywords": [
-    "vue", "vuejs", "menu", "frontend", "component", "window", "windows", "x11", "windowing system", "moveable", "moveable components", "floating windows"
+    "vue",
+    "vuejs",
+    "menu",
+    "frontend",
+    "component",
+    "window",
+    "windows",
+    "x11",
+    "windowing system",
+    "moveable",
+    "moveable components",
+    "floating windows"
   ],
   "bugs": {
     "url": "https://github.com/FalconLee1011/vue-x11/issues"
