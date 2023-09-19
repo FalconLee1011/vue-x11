@@ -232,6 +232,7 @@ export default {
   height: fit-content;
   position: absolute;
   box-sizing: border-box;
+  pointer-events: all;
 }
 .window .header {
   padding: 0.25rem 0.5rem;
